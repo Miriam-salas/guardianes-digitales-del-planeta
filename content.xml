@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260517010338V2L5G6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260517010338STSUCR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Guardianes digitales del planeta</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Investigamos y protegemos animales en peligro de extinción</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Miriam Salas Ibáñez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto dirigido a 4º de Educación Primaria centrado en el desarrollo de la competencia digital mediante la investigación sobre animales en peligro de extinción. El alumnado aprenderá a buscar, seleccionar, analizar y comunicar información de forma crítica, responsable y creativa utilizando herramientas digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778602988968</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778603792014-28iruw56j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603792014-28iruw56j</odePageId>
+      <odeBlockId>block-1778604110328-u84p6cej5</odeBlockId>
+      <blockName>GUARDIANES DIGITALES DEL PLANETA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603792014-28iruw56j</odePageId>
+          <odeBlockId>block-1778604110328-u84p6cej5</odeBlockId>
+          <odeIdeviceId>idevice-1778604110327-2guugiyq8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Portada- animales en peligro de extinción.png" width="1536" height="1024" alt="Animales en peligro de extinción" /></p>
+<p><br /></p>
+<p>Este proyecto está dirigido al alumnado de <strong>4º de Educación Primaria</strong> (segundo ciclo). El alumnado aprenderá a buscar, seleccionar, analizar y comunicar información utilizando <strong>herramientas digitales</strong> de forma responsable y segura.</p>
+<p>El centro de interés gira en torno a la protección de los <strong>animales en peligro de extinción</strong> como contexto para desarrollar el uso crítico, responsable y autónomo de la tecnología, integrando la investigación digital y la concienciación medioambiental. El <strong>reto final</strong> consistirá en crear un cartel o presentación digital sobre un animal en peligro de extinción y exponerlo al grupo clase mediante la aplicación digital Canva.</p>
+<p>En cuanto a su <strong>temporalización</strong>, la duración total será de 3 semanas (12 sesiones aproximadamente). Seguidamente, se expone una temporalización secuenciada y detallada sobre la planificación a seguir.</p>
+<p><br /><strong>SEMANA 1: INICIACIÓN Y ALFABETIZACIÓN DIGITAL (Sesiones 1-4)</strong><br /><em>Objetivo</em>: Enseñar al alumnado a usar la tecnología de forma guiada y empezar la investigación.</p>
+<p><em>Sesión 1: Presentación del proyecto</em><br />Introducción motivadora: “Nos convertimos en guardianes del planeta” <br />Explicación del reto final <br />Formación de grupos <br />Lluvia de ideas sobre animales en peligro </p>
+<p><em>Sesión 2: ¿Cómo buscar información en internet?</em><br />Explicación guiada: <br />Qué es buscar información <br />Cómo hacerlo correctamente <br />Ejemplo práctico (docente) </p>
+<p>Normas básicas: <br />No copiar y pegar <br />Leer y entender </p>
+<p><em>Sesión 3: Búsqueda guiada (con andamiaje)</em><br />Uso de páginas previamente seleccionadas <br />Cada grupo elige su animal <br />Comienzan a buscar información con apoyo de la docente </p>
+<p><em>Sesión 4: Estrategias de resolución de problemas</em><br />¿Qué hacer si…? :<br />No funciona internet <br />No entiendo la información <br />Introducción del rol: “Alumnos ayudantes digitales” <br />Continuación de la búsqueda </p>
+<p><br /></p>
+<p><strong>SEMANA 2: ANÁLISIS Y ORGANIZACIÓN DE LA INFORMACIÓN (Sesiones 5-8)</strong><br />Objetivo: Evitar el “copiar y pegar” y desarrollar comprensión.</p>
+<p><em>Sesión 5: Seleccionar información relevante</em><br />Diferenciar: información importante de información irrelevante <br />Ejemplos guiados </p>
+<p><em>Sesión 6: Organización de la información</em><br />Uso de plantilla: <br />Nombre del animal <br />Hábitat <br />Problemas <br />Soluciones </p>
+<p>Trabajo en grupo </p>
+<p><em>Sesión 7: Comprensión y reformulación</em><br />Escribir con sus propias palabras <br />Actividades: <br />“Explícalo con tus palabras” <br />Apoyo individualizado </p>
+<p><em>Sesión 8: Revisión del trabajo</em><br />Comprobación de: <br />Información correcta <br />Comprensión real <br />Corrección guiada </p>
+<p><strong>SEMANA 3: CREACIÓN Y EXPOSICIÓN DEL PRODUCTO FINAL (Sesiones 9-12)</strong><br />Objetivo: Aplicar lo aprendido y comunicarlo.</p>
+<p><em>Sesión 9: Introducción a la herramienta digital</em><br />Uso básico de: <br />Canva <br />Explicación sencilla y guiada </p>
+<p><em>Sesión 10: Creación del producto</em><br />Diseño de la presentación y/o cartel <br />Inclusión de: <br />Texto <br />Imágenes </p>
+<p><em>Sesión 11: Finalización y ensayo</em><br />Terminar el producto <br />Ensayar la exposición oral <br />Apoyo de la docente </p>
+<p><em>Sesión 12: Exposición final</em><br />Presentación al grupo clase <br />Valoración del trabajo <br />Reflexión final: ¿Qué hemos aprendido?</p>
+<p><br />Por otro lado, la <strong>materia implicada </strong>donde se va a desarrollar es en el área de <strong>Lengua Castellana y Literatura</strong> en el 4º curso de Educación Primaria. De manera <strong>transversal </strong>se trabaja <strong>Conocimiento del Medio Natural, Social y Cultural</strong> debido a que el alumnado trabaja con la temática: “animales en peligro de extinción”.</p>
+<p><br /></p>
+<p>Este proyecto tiene como <strong>finalidad </strong>que el alumnado desarrolle una competencia digital real, aprendiendo a buscar, seleccionar, analizar y comunicar información de forma crítica, utilizando como eje motivador los animales en peligro de extinción.</p>
+<p><br />A lo largo del proyecto, el alumnado <strong>trabajará en pequeños grupos </strong>y realizará:</p>
+<p>*Búsqueda guiada de información mediante recursos seleccionados <br />*Análisis de la información para identificar ideas relevantes <br />*Organización de contenidos mediante esquemas y plantillas <br />*Creación de un producto digital (presentación/ cartel ) <br />*Exposición oral para concienciar al resto del grupo </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778604110327-2guugiyq8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Portada- animales en peligro de extinción.png\" width=\"1536\" height=\"1024\" alt=\"Animales en peligro de extinción\" /></p>\n<p><br /></p>\n<p>Este proyecto está dirigido al alumnado de <strong>4º de Educación Primaria</strong> (segundo ciclo). El alumnado aprenderá a buscar, seleccionar, analizar y comunicar información utilizando <strong>herramientas digitales</strong> de forma responsable y segura.</p>\n<p>El centro de interés gira en torno a la protección de los <strong>animales en peligro de extinción</strong> como contexto para desarrollar el uso crítico, responsable y autónomo de la tecnología, integrando la investigación digital y la concienciación medioambiental. El <strong>reto final</strong> consistirá en crear un cartel o presentación digital sobre un animal en peligro de extinción y exponerlo al grupo clase mediante la aplicación digital Canva.</p>\n<p>En cuanto a su <strong>temporalización</strong>, la duración total será de 3 semanas (12 sesiones aproximadamente). Seguidamente, se expone una temporalización secuenciada y detallada sobre la planificación a seguir.</p>\n<p><br /><strong>SEMANA 1: INICIACIÓN Y ALFABETIZACIÓN DIGITAL (Sesiones 1-4)</strong><br /><em>Objetivo</em>: Enseñar al alumnado a usar la tecnología de forma guiada y empezar la investigación.</p>\n<p><em>Sesión 1: Presentación del proyecto</em><br />Introducción motivadora: “Nos convertimos en guardianes del planeta” <br />Explicación del reto final <br />Formación de grupos <br />Lluvia de ideas sobre animales en peligro </p>\n<p><em>Sesión 2: ¿Cómo buscar información en internet?</em><br />Explicación guiada: <br />Qué es buscar información <br />Cómo hacerlo correctamente <br />Ejemplo práctico (docente) </p>\n<p>Normas básicas: <br />No copiar y pegar <br />Leer y entender </p>\n<p><em>Sesión 3: Búsqueda guiada (con andamiaje)</em><br />Uso de páginas previamente seleccionadas <br />Cada grupo elige su animal <br />Comienzan a buscar información con apoyo de la docente </p>\n<p><em>Sesión 4: Estrategias de resolución de problemas</em><br />¿Qué hacer si…? :<br />No funciona internet <br />No entiendo la información <br />Introducción del rol: “Alumnos ayudantes digitales” <br />Continuación de la búsqueda </p>\n<p><br /></p>\n<p><strong>SEMANA 2: ANÁLISIS Y ORGANIZACIÓN DE LA INFORMACIÓN (Sesiones 5-8)</strong><br />Objetivo: Evitar el “copiar y pegar” y desarrollar comprensión.</p>\n<p><em>Sesión 5: Seleccionar información relevante</em><br />Diferenciar: información importante de información irrelevante <br />Ejemplos guiados </p>\n<p><em>Sesión 6: Organización de la información</em><br />Uso de plantilla: <br />Nombre del animal <br />Hábitat <br />Problemas <br />Soluciones </p>\n<p>Trabajo en grupo </p>\n<p><em>Sesión 7: Comprensión y reformulación</em><br />Escribir con sus propias palabras <br />Actividades: <br />“Explícalo con tus palabras” <br />Apoyo individualizado </p>\n<p><em>Sesión 8: Revisión del trabajo</em><br />Comprobación de: <br />Información correcta <br />Comprensión real <br />Corrección guiada </p>\n<p><strong>SEMANA 3: CREACIÓN Y EXPOSICIÓN DEL PRODUCTO FINAL (Sesiones 9-12)</strong><br />Objetivo: Aplicar lo aprendido y comunicarlo.</p>\n<p><em>Sesión 9: Introducción a la herramienta digital</em><br />Uso básico de: <br />Canva <br />Explicación sencilla y guiada </p>\n<p><em>Sesión 10: Creación del producto</em><br />Diseño de la presentación y/o cartel <br />Inclusión de: <br />Texto <br />Imágenes </p>\n<p><em>Sesión 11: Finalización y ensayo</em><br />Terminar el producto <br />Ensayar la exposición oral <br />Apoyo de la docente </p>\n<p><em>Sesión 12: Exposición final</em><br />Presentación al grupo clase <br />Valoración del trabajo <br />Reflexión final: ¿Qué hemos aprendido?</p>\n<p><br />Por otro lado, la <strong>materia implicada </strong>donde se va a desarrollar es en el área de <strong>Lengua Castellana y Literatura</strong> en el 4º curso de Educación Primaria. De manera <strong>transversal </strong>se trabaja <strong>Conocimiento del Medio Natural, Social y Cultural</strong> debido a que el alumnado trabaja con la temática: “animales en peligro de extinción”.</p>\n<p><br /></p>\n<p>Este proyecto tiene como <strong>finalidad </strong>que el alumnado desarrolle una competencia digital real, aprendiendo a buscar, seleccionar, analizar y comunicar información de forma crítica, utilizando como eje motivador los animales en peligro de extinción.</p>\n<p><br />A lo largo del proyecto, el alumnado <strong>trabajará en pequeños grupos </strong>y realizará:</p>\n<p>*Búsqueda guiada de información mediante recursos seleccionados <br />*Análisis de la información para identificar ideas relevantes <br />*Organización de contenidos mediante esquemas y plantillas <br />*Creación de un producto digital (presentación/ cartel ) <br />*Exposición oral para concienciar al resto del grupo </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778603799667-c5ekf50h7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Navegamos seguros</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Navegamos seguros</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603799667-c5ekf50h7</odePageId>
+      <odeBlockId>block-1778604984904-amwu83nev</odeBlockId>
+      <blockName>Navegamos seguros en Internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603799667-c5ekf50h7</odePageId>
+          <odeBlockId>block-1778604984904-amwu83nev</odeBlockId>
+          <odeIdeviceId>idevice-1778604984903-x5a6alh92</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar nuestro proyecto aprenderemos a utilizar Internet de forma segura y responsable.</p>
+<p>Es importante <strong>proteger </strong>nuestros <strong>datos personales</strong>, respetar los derechos digitales y utilizar las tecnologías de manera adecuada.</p>
+<p><br /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/INFOGRAFÍA PROTECCIÓN DE DATOS- MIRIAM SALAS IBÁÑEZ.png" width="1536" height="2173" alt="Infografía protección de datos" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778604984903-x5a6alh92","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar nuestro proyecto aprenderemos a utilizar Internet de forma segura y responsable.</p>\n<p>Es importante <strong>proteger </strong>nuestros <strong>datos personales</strong>, respetar los derechos digitales y utilizar las tecnologías de manera adecuada.</p>\n<p><br /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/INFOGRAFÍA PROTECCIÓN DE DATOS- MIRIAM SALAS IBÁÑEZ.png\" width=\"1536\" height=\"2173\" alt=\"Infografía protección de datos\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778603810177-s799fo2rq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos y curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603810177-s799fo2rq</odePageId>
+      <odeBlockId>block-1778605275934-skuodklol</odeBlockId>
+      <blockName>Recursos y curación de contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603810177-s799fo2rq</odePageId>
+          <odeBlockId>block-1778605275934-skuodklol</odeBlockId>
+          <odeIdeviceId>idevice-1778605275932-h6fccmo2x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para trabajar la competencia digital del alumnado y fomentar el uso de las TIC en el aula, se proponen estas dos herramientas digitales motivadoras e interactivas. </p>
+<p>Por un lado, el alumnado utilizará recursos guiados que facilitarán la búsqueda segura y organizada de información durante el proyecto. </p>
+<p>Por otro lado, estas herramientas también permitirán al docente estructurar y organizar los materiales, actividades y recursos necesarios para el desarrollo de las clases de manera dinámica y accesible.</p>
+<p></p>
+<p><strong>*Herramienta para el alumnado:</strong></p>
+<p>El alumnado utilizará diferentes recursos digitales guiados para buscar información segura y fiable sobre animales en peligro de extinción. Para ello, se usará la herramienta digital  <a href="https://www.symbaloo.com/shared/AAAAAQvAE8gAA41-5EZ0rQ==" target="_blank" rel="noopener" title="">Symbaloo</a></p>
+<p><br /></p>
+<p><strong>*Herramienta para el/la docente: </strong></p>
+<p>En cuanto a la organización docente se ha llevado a cabo la herramienta <a href="https://padlet.com/msaliba113/mi-dia-a-dia-ovdp8qaaxbr5oy0f" target="_blank" rel="noopener" title="">Padlet</a>, la cual se utilizará para organizar recursos, actividades y materiales relacionados con el proyecto.</p>
+<p> <img src="{{context_path}}/content/resources/Symbaloo.PNG" width="1509" height="917" alt="" /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/Padlet.PNG" width="1536" height="742" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778605275932-h6fccmo2x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para trabajar la competencia digital del alumnado y fomentar el uso de las TIC en el aula, se proponen estas dos herramientas digitales motivadoras e interactivas. </p>\n<p>Por un lado, el alumnado utilizará recursos guiados que facilitarán la búsqueda segura y organizada de información durante el proyecto. </p>\n<p>Por otro lado, estas herramientas también permitirán al docente estructurar y organizar los materiales, actividades y recursos necesarios para el desarrollo de las clases de manera dinámica y accesible.</p>\n<p></p>\n<p><strong>*Herramienta para el alumnado:</strong></p>\n<p>El alumnado utilizará diferentes recursos digitales guiados para buscar información segura y fiable sobre animales en peligro de extinción. Para ello, se usará la herramienta digital  <a href=\"https://www.symbaloo.com/shared/AAAAAQvAE8gAA41-5EZ0rQ==\" target=\"_blank\" rel=\"noopener\" title=\"\">Symbaloo</a></p>\n<p><br /></p>\n<p><strong>*Herramienta para el/la docente: </strong></p>\n<p>En cuanto a la organización docente se ha llevado a cabo la herramienta <a href=\"https://padlet.com/msaliba113/mi-dia-a-dia-ovdp8qaaxbr5oy0f\" target=\"_blank\" rel=\"noopener\" title=\"\">Padlet</a>, la cual se utilizará para organizar recursos, actividades y materiales relacionados con el proyecto.</p>\n<p> <img src=\"{{context_path}}/content/resources/Symbaloo.PNG\" width=\"1509\" height=\"917\" alt=\"\" /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/Padlet.PNG\" width=\"1536\" height=\"742\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778603818533-8bt8i6nd3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Desarrollo del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603818533-8bt8i6nd3</odePageId>
+      <odeBlockId>block-1778605810646-od1uf2ai9</odeBlockId>
+      <blockName>Desarrollo del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603818533-8bt8i6nd3</odePageId>
+          <odeBlockId>block-1778605810646-od1uf2ai9</odeBlockId>
+          <odeIdeviceId>idevice-1778605810645-duo5d1psa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presenta la organización de las actividades y tareas que se desarrollarán a lo largo del proyecto <em><strong>“Guardianes digitales del planeta”.</strong></em></p>
+<p>Durante las sesiones el alumnado investigará, seleccionará información, elaborará contenidos digitales y realizará una exposición final en canva sobre animales en peligro de extinción.</p>
+<p>Seguidamente, se expone un mapa mental donde se organizan las diversas sesiones de clase y la explicación del desarrollo de las mismas.</p>
+<p><img src="{{context_path}}/content/resources/MÓDULO 7- MAPA MENTAL- MIRIAM SALAS IBÁÑEZ.png" width="1536" height="864" alt="Mapa mental" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778605810645-duo5d1psa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presenta la organización de las actividades y tareas que se desarrollarán a lo largo del proyecto <em><strong>“Guardianes digitales del planeta”.</strong></em></p>\n<p>Durante las sesiones el alumnado investigará, seleccionará información, elaborará contenidos digitales y realizará una exposición final en canva sobre animales en peligro de extinción.</p>\n<p>Seguidamente, se expone un mapa mental donde se organizan las diversas sesiones de clase y la explicación del desarrollo de las mismas.</p>\n<p><img src=\"{{context_path}}/content/resources/MÓDULO 7- MAPA MENTAL- MIRIAM SALAS IBÁÑEZ.png\" width=\"1536\" height=\"864\" alt=\"Mapa mental\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778603834674-zqsqpt484</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603834674-zqsqpt484</odePageId>
+      <odeBlockId>block-1778607423863-6vgodc3pj</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603834674-zqsqpt484</odePageId>
+          <odeBlockId>block-1778607423863-6vgodc3pj</odeBlockId>
+          <odeIdeviceId>idevice-1778607423861-zpucjvgwx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <strong>producto final del proyecto</strong> consistirá en la creación de un <strong>cartel o presentación digital</strong> sobre un animal en peligro de extinción.</p>
+<p>El alumnado trabajará en<em> pequeños grupos</em> utilizando herramientas digitales como <a href="https://www.canva.com/es_es/" target="_blank" rel="noopener" title="">Canva</a> para:</p>
+<p>*Buscar información relevante y fiable.<br />*Seleccionar las ideas más importantes.<br />*Organizar la información.<br />*Diseñar una presentación visual y creativa.<br />*Exponer oralmente el trabajo realizado.<br /><br /></p>
+<p>El <strong>objetivo final </strong>será concienciar sobre la importancia de proteger a los animales en peligro de extinción utilizando la tecnología de forma responsable y segura.</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><strong></strong><img src="{{context_path}}/content/resources/logotipo canva.png" width="1254" height="1254" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778607423861-zpucjvgwx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <strong>producto final del proyecto</strong> consistirá en la creación de un <strong>cartel o presentación digital</strong> sobre un animal en peligro de extinción.</p>\n<p>El alumnado trabajará en<em> pequeños grupos</em> utilizando herramientas digitales como <a href=\"https://www.canva.com/es_es/\" target=\"_blank\" rel=\"noopener\" title=\"\">Canva</a> para:</p>\n<p>*Buscar información relevante y fiable.<br />*Seleccionar las ideas más importantes.<br />*Organizar la información.<br />*Diseñar una presentación visual y creativa.<br />*Exponer oralmente el trabajo realizado.<br /><br /></p>\n<p>El <strong>objetivo final </strong>será concienciar sobre la importancia de proteger a los animales en peligro de extinción utilizando la tecnología de forma responsable y segura.</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><strong></strong><img src=\"{{context_path}}/content/resources/logotipo canva.png\" width=\"1254\" height=\"1254\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778603843498-kylasmrqr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603843498-kylasmrqr</odePageId>
+      <odeBlockId>block-1778607922898-0mf73w1vf</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603843498-kylasmrqr</odePageId>
+          <odeBlockId>block-1778607922898-0mf73w1vf</odeBlockId>
+          <odeIdeviceId>idevice-1778607922897-awtjoe7y5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto está dirigido al alumnado de 4º de Educación Primaria y se desarrolla a lo largo de tres semanas.</p>
+<p>Las actividades propuestas están relacionadas con los <strong>criterios de evaluación</strong> y favorecen el desarrollo de la <strong>competencia digital</strong>, el <strong>trabajo cooperativo y el uso responsable de las tecnologías</strong>.</p>
+<p></p>
+<p>Relación entre tareas y criterios de evaluación:</p>
+<p><img src="{{context_path}}/content/resources/1.PNG" width="972" height="533" alt="" /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/2.PNG" width="975" height="444" alt="" /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/3.PNG" width="973" height="533" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778607922897-awtjoe7y5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto está dirigido al alumnado de 4º de Educación Primaria y se desarrolla a lo largo de tres semanas.</p>\n<p>Las actividades propuestas están relacionadas con los <strong>criterios de evaluación</strong> y favorecen el desarrollo de la <strong>competencia digital</strong>, el <strong>trabajo cooperativo y el uso responsable de las tecnologías</strong>.</p>\n<p></p>\n<p>Relación entre tareas y criterios de evaluación:</p>\n<p><img src=\"{{context_path}}/content/resources/1.PNG\" width=\"972\" height=\"533\" alt=\"\" /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/2.PNG\" width=\"975\" height=\"444\" alt=\"\" /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/3.PNG\" width=\"973\" height=\"533\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778603849919-bv8pjrqsw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603849919-bv8pjrqsw</odePageId>
+      <odeBlockId>block-1778608593006-jtzeqa5ms</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603849919-bv8pjrqsw</odePageId>
+          <odeBlockId>block-1778608593006-jtzeqa5ms</odeBlockId>
+          <odeIdeviceId>idevice-1778608593004-9q7kbin1p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el proyecto <strong>“Guardianes digitales del planeta”</strong> se utilizarán diferentes <strong>instrumentos de evaluación </strong>que permitirán recoger información variada sobre el proceso de aprendizaje del alumnado.</p>
+<p>La <strong>finalidad </strong>no será únicamente calificar, sino también ofrecer retroalimentación <strong>continua</strong>, detectar <strong>dificultades</strong>, valorar el desarrollo de la <strong>competencia digital</strong> y favorecer la <strong>mejora del proceso de enseñanza-aprendizaje.</strong></p>
+<p>Por ende, el primer instrumento de evaluación seleccionado es un <strong>rúbrica</strong>. Mediante esta <em><strong>se evaluará el producto digital final</strong></em> elaborado por el alumnado sobre los animales en peligro de extinción.</p>
+<p>Se tendrán en cuenta aspectos relacionados con:</p>
+<p>*La búsqueda y selección de información relevante<br />*La comprensión de la información<br />*El uso responsable de herramientas digitales<br />*La organización del contenido<br />*La creatividad y presentación visual<br />*La exposición oral<br /></p>
+<p>La <strong>rúbrica se utilizará </strong>durante las sesiones finales del proyecto, especialmente en la exposición oral y presentación del cartel o presentación digital.</p>
+<p>El/la docente <strong>completará la rúbrica</strong> durante la exposición de cada grupo.</p>
+<p><em>Los resultados permitirán</em>:</p>
+<p>*Detectar dificultades comunes.<br />*Comprobar si el alumnado ha comprendido realmente la información.<br />*Analizar el uso adecuado de las herramientas digitales.<br />*Valorar la capacidad de trabajo cooperativo.</p>
+<p>Además, se podrán comparar los resultados entre grupos para identificar necesidades de refuerzo o apoyo.</p>
+<p>Pueden surgir <strong>diversas variables</strong> tales como: diferentes niveles de competencia digital, nervios durante la exposición oral, participación desigual dentro de los grupos y dificultades técnicas durante la presentación. Para ello, se ofrecerá apoyo individualizado, tiempos flexibles y acompañamiento docente.</p>
+<p></p>
+<p>A continuación, se presenta el instrumento detallado: </p>
+<p><img src="{{context_path}}/content/resources/rubrica.PNG" width="772" height="758" alt="" /></p>
+<p></p>
+<p>En segundo lugar, se llevará a cabo la evaluación del alumnado a través de una <strong>lista de cotejo de observación.</strong> Esta permitirá realizar un <strong>seguimiento diario del trabajo del alumnado</strong> durante el proyecto empleándose y todas y cada una de las sesiones.</p>
+<p>Se <strong>observarán </strong>aspectos como:</p>
+<p>*Participación.<br />*Trabajo cooperativo.<br />*Uso responsable de dispositivos.<br />*Resolución de problemas técnicos.<br />*Respeto de las normas digitales.<br /></p>
+<p>Los <strong>datos se recogerán</strong> y se irán organizando de manera <strong>continua</strong>. La información recogida permitirá:</p>
+<p>*Detectar dificultades rápidamente.<br />*Adaptar las actividades.<br />*Organizar apoyos.<br />*Identificar alumnado con mayor autonomía digital.<br /></p>
+<p>A lo largo del desarrollo de las sesiones pueden surgir <strong>variables </strong>tales como:</p>
+<p>*Diferente ritmo de aprendizaje.<br />*Problemas técnicos del aula.<br />*Dificultades de organización en los grupos.<br />*Falta de participación de algunos alumnos.<br /></p>
+<p>En estos casos, se utilizarán agrupamientos flexibles, ayuda entre iguales y adaptación de tareas.</p>
+<p></p>
+<p>Seguidamente, se muestra la <strong>lista de cotejo de observación</strong>: </p>
+<p><img src="{{context_path}}/content/resources/lista de cotejo de observación.PNG" width="741" height="410" alt="" /></p>
+<p></p>
+<p>A modo de <strong>conclusión</strong>, es notable señalar que la combinación de diferentes instrumentos de evaluación permite obtener una <strong>visión más completa</strong> del aprendizaje del alumnado.</p>
+<p>Además de evaluar el producto final, también se valorará el proceso, la participación, el trabajo cooperativo y el desarrollo de la competencia digital.</p>
+<p>De esta forma, la <strong>evaluación se convierte en una herramienta de mejora continua</strong> tanto para el alumnado como para la práctica docente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778608593004-9q7kbin1p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el proyecto <strong>“Guardianes digitales del planeta”</strong> se utilizarán diferentes <strong>instrumentos de evaluación </strong>que permitirán recoger información variada sobre el proceso de aprendizaje del alumnado.</p>\n<p>La <strong>finalidad </strong>no será únicamente calificar, sino también ofrecer retroalimentación <strong>continua</strong>, detectar <strong>dificultades</strong>, valorar el desarrollo de la <strong>competencia digital</strong> y favorecer la <strong>mejora del proceso de enseñanza-aprendizaje.</strong></p>\n<p>Por ende, el primer instrumento de evaluación seleccionado es un <strong>rúbrica</strong>. Mediante esta <em><strong>se evaluará el producto digital final</strong></em> elaborado por el alumnado sobre los animales en peligro de extinción.</p>\n<p>Se tendrán en cuenta aspectos relacionados con:</p>\n<p>*La búsqueda y selección de información relevante<br />*La comprensión de la información<br />*El uso responsable de herramientas digitales<br />*La organización del contenido<br />*La creatividad y presentación visual<br />*La exposición oral<br /></p>\n<p>La <strong>rúbrica se utilizará </strong>durante las sesiones finales del proyecto, especialmente en la exposición oral y presentación del cartel o presentación digital.</p>\n<p>El/la docente <strong>completará la rúbrica</strong> durante la exposición de cada grupo.</p>\n<p><em>Los resultados permitirán</em>:</p>\n<p>*Detectar dificultades comunes.<br />*Comprobar si el alumnado ha comprendido realmente la información.<br />*Analizar el uso adecuado de las herramientas digitales.<br />*Valorar la capacidad de trabajo cooperativo.</p>\n<p>Además, se podrán comparar los resultados entre grupos para identificar necesidades de refuerzo o apoyo.</p>\n<p>Pueden surgir <strong>diversas variables</strong> tales como: diferentes niveles de competencia digital, nervios durante la exposición oral, participación desigual dentro de los grupos y dificultades técnicas durante la presentación. Para ello, se ofrecerá apoyo individualizado, tiempos flexibles y acompañamiento docente.</p>\n<p></p>\n<p>A continuación, se presenta el instrumento detallado: </p>\n<p><img src=\"{{context_path}}/content/resources/rubrica.PNG\" width=\"772\" height=\"758\" alt=\"\" /></p>\n<p></p>\n<p>En segundo lugar, se llevará a cabo la evaluación del alumnado a través de una <strong>lista de cotejo de observación.</strong> Esta permitirá realizar un <strong>seguimiento diario del trabajo del alumnado</strong> durante el proyecto empleándose y todas y cada una de las sesiones.</p>\n<p>Se <strong>observarán </strong>aspectos como:</p>\n<p>*Participación.<br />*Trabajo cooperativo.<br />*Uso responsable de dispositivos.<br />*Resolución de problemas técnicos.<br />*Respeto de las normas digitales.<br /></p>\n<p>Los <strong>datos se recogerán</strong> y se irán organizando de manera <strong>continua</strong>. La información recogida permitirá:</p>\n<p>*Detectar dificultades rápidamente.<br />*Adaptar las actividades.<br />*Organizar apoyos.<br />*Identificar alumnado con mayor autonomía digital.<br /></p>\n<p>A lo largo del desarrollo de las sesiones pueden surgir <strong>variables </strong>tales como:</p>\n<p>*Diferente ritmo de aprendizaje.<br />*Problemas técnicos del aula.<br />*Dificultades de organización en los grupos.<br />*Falta de participación de algunos alumnos.<br /></p>\n<p>En estos casos, se utilizarán agrupamientos flexibles, ayuda entre iguales y adaptación de tareas.</p>\n<p></p>\n<p>Seguidamente, se muestra la <strong>lista de cotejo de observación</strong>: </p>\n<p><img src=\"{{context_path}}/content/resources/lista de cotejo de observación.PNG\" width=\"741\" height=\"410\" alt=\"\" /></p>\n<p></p>\n<p>A modo de <strong>conclusión</strong>, es notable señalar que la combinación de diferentes instrumentos de evaluación permite obtener una <strong>visión más completa</strong> del aprendizaje del alumnado.</p>\n<p>Además de evaluar el producto final, también se valorará el proceso, la participación, el trabajo cooperativo y el desarrollo de la competencia digital.</p>\n<p>De esta forma, la <strong>evaluación se convierte en una herramienta de mejora continua</strong> tanto para el alumnado como para la práctica docente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778603855542-f5bocztik</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778603855542-f5bocztik</odePageId>
+      <odeBlockId>block-1778610886288-d92tkemu6</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778603855542-f5bocztik</odePageId>
+          <odeBlockId>block-1778610886288-d92tkemu6</odeBlockId>
+          <odeIdeviceId>idevice-1778610886286-5zpzh1mg4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autora</strong>: Miriam Salas Ibáñez</p>
+<p><strong>Título del proyecto</strong>: "Guardianes digitales del planeta"</p>
+<p><strong>Descripción</strong>: Proyecto dirigido al alumnado de 4º de Educación Primaria centrado en el desarrollo de la competencia digital y la concienciación sobre animales en peligro de extinción.</p>
+<p><strong>Herramientas utilizadas</strong>: eXeLearning, Canva, Symbaloo y Padlet.</p>
+<p><strong>Licencia</strong>: Creative Commons Reconocimiento - Compartir Igual 4.0</p>
+<p>Las imágenes y recursos utilizados en este proyecto tienen finalidad educativa y pertenecen a bancos de imágenes libres de derechos o han sido elaborados para uso educativo.</p>
+<p><br /></p>
+<p>Para finalizar, haz clic en el siguiente enlace para <strong>descargar el archivo editable del proyecto</strong>: <a href="{{context_path}}/content/resources/guardianes-digitales-del-planeta.elpx" title="guardianes-digitales-del-planeta.elpx" target="_blank" rel="noopener">Guardianes digitales del planeta</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778610886286-5zpzh1mg4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autora</strong>: Miriam Salas Ibáñez</p>\n<p><strong>Título del proyecto</strong>: \"Guardianes digitales del planeta\"</p>\n<p><strong>Descripción</strong>: Proyecto dirigido al alumnado de 4º de Educación Primaria centrado en el desarrollo de la competencia digital y la concienciación sobre animales en peligro de extinción.</p>\n<p><strong>Herramientas utilizadas</strong>: eXeLearning, Canva, Symbaloo y Padlet.</p>\n<p><strong>Licencia</strong>: Creative Commons Reconocimiento - Compartir Igual 4.0</p>\n<p>Las imágenes y recursos utilizados en este proyecto tienen finalidad educativa y pertenecen a bancos de imágenes libres de derechos o han sido elaborados para uso educativo.</p>\n<p><br /></p>\n<p>Para finalizar, haz clic en el siguiente enlace para <strong>descargar el archivo editable del proyecto</strong>: <a href=\"{{context_path}}/content/resources/guardianes-digitales-del-planeta.elpx\" title=\"guardianes-digitales-del-planeta.elpx\" target=\"_blank\" rel=\"noopener\">Guardianes digitales del planeta</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
